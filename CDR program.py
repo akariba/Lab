@@ -1,6 +1,4 @@
-#Rutgers University 
-#Python Methodologies for Data Science
-#Team 4 Members - Hung-Yueh Chang, Oludare Bello, Shih-Yen Lin
+
 
 #   This is a program to analyze Call Detail Record
 #   

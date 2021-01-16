@@ -1,6 +1,3 @@
-# Rutgers University
-# Python Methodologies for Data Science
-# Team 4 Members - Hung-Yueh Chang, Oludare Bello, Shih-Yen Lin
 
 #   This is a lib for Call Detail Records
 #   including function of reading CSV file, call time analysis and a class 
